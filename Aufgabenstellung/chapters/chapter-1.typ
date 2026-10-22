@@ -23,13 +23,13 @@ Zum Abschluss entwickelst du eine einfache Webseite, auf der die Inhalte deiner 
   - (3) Schema in der bereitgestellten Datenbank erstellen (bspw. mit Datagrip)
   - (4) SQL optimieren
 - Daten und Test Cases erstellen
-  - > 100 Produkte
+  - > 50 Produkte
   - verwendet Bilder für die Produkte
 - Web GUI: 
   - Anzeigen der Tabellen (JOINS müssen drin sein)
+    - Kombination von HTML, CSS, JS und PHP
   - Manipulation (GET, INSERT, UPDATE, DELETE)
   - korrekte HTML Implementierung
-  - (optional PHP Implementation gibt Bonuspunkte)
 
 == Abgaben
 Abschliessend gebt ihr die folgende Artefakte ab:
