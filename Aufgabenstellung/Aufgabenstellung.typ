@@ -25,7 +25,7 @@
 
 #left-right(
   "LBV",
-  "LVB 290"
+  "LBV 290"
 )
 
 #left-right(
@@ -35,7 +35,7 @@
 
 #left-right(
   "Version",
-  "V1.0 / 2023"
+  "V1.0 / 2025"
 )
 
 #line(length: 100%)
