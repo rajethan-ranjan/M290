@@ -4,7 +4,7 @@
   table.header( [*Bereich*], [*Punkte*]),
 
   [Dokumentation],
-  [7],
+  [5],
 
   [Datenbankschema],
   [10],
@@ -13,8 +13,8 @@
   [15],
 
   [Web GUI],
-  [17],
+  [20],
 
   [*Maximale Punktzahl*],
-  [*49*]
+  [*50*]
 )
